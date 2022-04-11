@@ -11,6 +11,7 @@ public class test {
         System.out.println("我是老二");
 
         System.out.println("master 老三");
+        System.out.println("我是老四");
     }
 
 }
